@@ -57,7 +57,7 @@ public:
 				FRONT = FRONT + 1;
 		}
 	}
-	void display() {
+	void display(){
 		int FRONT position = 
 
 	}
